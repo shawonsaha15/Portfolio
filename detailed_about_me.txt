@@ -1,0 +1,38 @@
+<center><i>"I am a beacon of knowledge blazing across a black sea of ignorance." - Invoker, DOTA 2</i></center>
+          <br>
+          <p>
+            I am a Computer Science graduate with a deep passion for learning and applying interdisciplinary skills, 
+            knowledge, and experiences. My fascination with computers started at a young age. I have always had a curious 
+            mind, and as a child, I would eagerly join anyone using computers, absorbing new things along the way.
+          </p>
+          <p>
+            I graduated with a Bachelor of Science in Computer Science, earning First Class Honors and Cum Laude distinction. 
+            My academic focus was in Artificial Intelligence, with a minor in Networking. Throughout my studies, I have been 
+            driven to explore both the theoretical and practical aspects of technology, particularly where AI intersects 
+            with real-world applications.
+          </p>
+          <center><i>Life would be dull if there were no difficulties.</i></center>
+          <br>
+          <p>
+            I thrive on challenges—each one is an opportunity to push my boundaries, grow, and become a better version of 
+            myself. Embracing pressure fuels my drive, honing my time management, critical thinking, and problem-solving 
+            abilities.
+          </p>
+          <p>
+            Working in teams has also been a rewarding experience, helping me develop strong collaboration, leadership, and 
+            project management skills. With a competitive spirit and a passion for learning, I am always eager to implement 
+            new ideas and exceed my own expectations, continuously striving to unlock my full potential.
+          </p>
+          <center><i>"Research is what I'm doing when I don't know what I'm doing." - Albert Einstein</i></center>
+          <br>
+          <p>
+            I have a deep passion for research, as it is the fundamental gateway to acquiring new knowledge. My primary 
+            research interests lie within the realm of Artificial Intelligence, with a focus on areas such as computer 
+            vision, human-computer interaction, and robotics. However, I remain open to exploring other fields because, 
+            after all, learning is a lifelong journey!
+          </p>
+          <p>
+            I thrive on analysis, regardless of the subject matter. There is something exhilarating about uncovering 
+            potential outcomes and solving problems—almost like being a detective on a mission. This investigative mindset 
+            is what fuels my curiosity and drives my pursuit of knowledge.
+          </p>

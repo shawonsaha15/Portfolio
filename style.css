@@ -1,0 +1,17 @@
+/* Add gap on the sides and adjust padding */
+.container {
+    box-sizing: border-box; /* Ensures padding and margin don't affect the overall width */
+}
+
+/* Justify the text */
+p, h1, h2, h3, h4, h5, h6 { /* Target text elements */
+    text-align: justify;
+}
+
+/* Optional: Style for headers if needed */
+h1, h2, h3 {
+    text-align: center; /* You can also center headers if preferred */
+}
+
+
+
